@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiccupsoft&show_icons=true&locale=en" alt="atosdev" />
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiccupsoft&" alt="atosdev" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atisdev&" alt="atosdev" /></p> -->
 
 <h3 align="left">Main Skilset:</h3>
 <h4 align="left">- Blockchain Development</h4>
