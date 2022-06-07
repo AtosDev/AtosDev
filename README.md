@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I am free now **like a bird.**
+
 - 🌱 I’m currently learning **blockchain technology.**
 
 - 👯 I’m looking to collaborate on **blockchain projects.**
