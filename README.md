@@ -29,13 +29,14 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiccupsoft&" alt="atosdev" /></p> -->
 
+<h3 align="left">Main Skilset:</h3>
 <h4 align="left">Blockchain Development</h4>
 <p>
   BitCoin, Ethereum, Solana, Solidity, Rust, C/C++, web3.js, ether.js, terra.js ...
 </p>
 <h4 align="left">Web & Mobile Development:</h4>
 <p>
-  JavaScript, TypeScriptReact, Vue, Angular, ReactNative, Node.js, Express, Redux, Hook, MUI, styled-system, styled-components, chakra, chart.js ...
+  JavaScript, TypeScriptReact, Vue, Angular, ReactNative, Node.js, PHP, .NET, Django, Codeignitor, Larabel, MongoDB, MySQL, MariaDB, SQLite, MEANstack, MERNstack, NEXT, NUXT, NEST, express, Redux, Hook, MUI, styled-system, styled-components, chakra, chart.js ...
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
