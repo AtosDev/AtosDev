@@ -6,23 +6,19 @@
 
 <p align="center">
   <div align="left" width="80%">
-    - I'm a fullstack / blockchain engineer with over 5 years of professional experience working on enterprise and startup projects.<br/><br/>
-    - Especially, I have rich experience with blockchain frontend and backend technology and I have built a lot of dapps such as DEXTools, DAO, NFT marketplace, and wallet.<br/><br/>
-    - I am meticulous with detail and have keen eyes for good UI/UX design specialized in using agile methodology.<br/><br/>
-    - The most important aspect is that I am a self-driven and passionate creator who loves to work creatively.<br/><br/>
-    - I love to give client’s clean and perfect result and It is my final goal to satisfy all requirements of clients.<br/><br/>
+    - I'm a fullstack / blockchain engineer with over 5 years of professional experience working on enterprise and startup projects.<br/>
+    - Especially, I have rich experience with blockchain frontend and backend technology and I have built a lot of dapps such as DEXTools, DAO, NFT marketplace, and wallet.<br/>
+    - I am meticulous with detail and have keen eyes for good UI/UX design specialized in using agile methodology.<br/>
+    - The most important aspect is that I am a self-driven and passionate creator who loves to work creatively.<br/>
+    - I love to give client’s clean and perfect result and It is my final goal to satisfy all requirements of clients.<br/>
     - To prove my skills and experience, I'm willing to carry out a few tasks before getting hired.
   </div>
 </p>
 
 - 🔭 I am free now **like a bird.**
-
 - 🌱 I’m currently learning **blockchain technology.**
-
 - 👯 I’m looking to collaborate on **blockchain projects.**
-
 - 💬 Ask me about **react, web3, solidity, etc.**
-
 - 📫 How to reach me **https://t.me/fantasyscenes**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atosdev" alt="atosdev" /></a> </p> -->
