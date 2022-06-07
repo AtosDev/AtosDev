@@ -36,7 +36,7 @@
 </p>
 <h4 align="left">Web & Mobile Development:</h4>
 <p>
-  JavaScript, TypeScriptReact, Vue, Angular, ReactNative, Node.js, PHP, .NET, Django, Codeignitor, Larabel, MongoDB, MySQL, MariaDB, SQLite, MEANstack, MERNstack, NEXT, NUXT, NEST, express, Redux, Hook, MUI, styled-system, styled-components, chakra, chart.js ...
+  JavaScript, TypeScriptReact, Vue, Angular, ReactNative, Node.js, PHP, .NET, Django, Codeignitor, Larabel, MongoDB, MySQL, MariaDB, SQLite, MEANstack, MERNstack, NEXT, NUXT, NEST, express, Redux, Hook, MUI, styled-system, styled-components, ChakraUI, Chart.js ...
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
