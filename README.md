@@ -1,8 +1,8 @@
-<h1 align="center">Legendary Shinobi</h1>
+<h1 align="center">Senior fullstack blockchain engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atosdev&label=Profile%20views&color=0e75b6&style=flat" alt="atosdev" /> </p>
 
-<h3 align="center">A passionate fullstack blockchain engineer</h3>
+<h3 align="left">Summary</h3>
 
 <p align="center">
   <div align="left" width="80%">
