@@ -21,13 +21,13 @@
 - 💬 Ask me about **react, web3, solidity, etc**.
 - 📫 How to reach me **https://t.me/fantasyscenes**
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atosdev" alt="atosdev" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnami&show_icons=true&locale=en" alt="shahnami" />
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atisdev&" alt="atosdev" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnami&" alt="shahnami" /></p>
 
 <h3 align="left">Main Skilset:</h3>
 <h4 align="left">- Blockchain Development</h4>
