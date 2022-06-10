@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris-labs&layout=compact&langs_count=8" alt="DomantasP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atosdev&layout=compact&langs_count=8" alt="DomantasP" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnami&" alt="shahnami" /></p> -->
