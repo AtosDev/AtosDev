@@ -21,7 +21,21 @@
 - 💬 Ask me about **react, web3, solidity, etc**.
 - 📫 How to reach me **https://t.me/fantasyscenes**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p> -->
+<p> 
+    <a href="https://discordapp.com/users/pcaversaccio#0707" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://github.com/pcaversaccio" target="_blank"><img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/pascalmarcocaversaccio" target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/@pcaversaccio" target="_blank"><img alt="Medium"
+        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://www.reddit.com/user/pcaversaccio" target="_blank"><img alt="Reddit"
+        src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+    <a href="https://twitter.com/pcaversaccio" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnami&show_icons=true&locale=en" alt="shahnami" />
