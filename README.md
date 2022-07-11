@@ -39,6 +39,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP"/>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP"/>
 </p>
 
