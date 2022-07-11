@@ -21,7 +21,6 @@
 - 💬 Ask me about **react, web3, solidity, etc**.
 - 📫 How to reach me **https://t.me/fantasyscenes**
 
-
 <h3 align="left">Main Skilset:</h3>
 <h4 align="left">- Blockchain Development</h4>
 <div>
@@ -37,25 +36,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p> -->
 
-<p align="center">
-  <table>
+  <table style="border:none;">
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP"/>
+      <td style="padding:0px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP" height="200px"/>
       <td/>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP"/>
+      <td style="padding:0px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP" height="200px"/>
       <td/>
     <tr/>
   </table>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP"/>
-</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnami&" alt="shahnami" /></p> -->
-
