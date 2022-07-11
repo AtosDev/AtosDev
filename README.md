@@ -36,7 +36,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p> -->
 
-<p align='center' style="display: flex; justify-content: space-around">
+<p align='center' style="display: flex; justify-content: center; grid-gap: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP" height="150px"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP" height="150px"/>
 </p>
