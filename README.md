@@ -36,12 +36,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnami" alt="shahnami" /></a> </p> -->
 
-  <table style="border:none;">
+  <table style="overflow: show;">
     <tr>
-      <td style="padding:0px">
+      <td style="padding:0px; border: none;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomantasP&show_icons=true&locale=en" alt="DomantasP" height="200px"/>
       <td/>
-      <td style="padding:0px">
+      <td style="padding:0px; border: none;">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8" alt="DomantasP" height="200px"/>
       <td/>
     <tr/>
