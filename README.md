@@ -19,7 +19,7 @@
 - 🌱 I’m always learning **NEW TECHNOLOGY**.
 - 👯 I’m looking to collaborate on **BLOCKCHAIN PROJECTS**.
 - 💬 Ask me about **react, web3, solidity, etc**.
-- 📫 How to reach me **https://t.me/fantasyscenes**
+- 📫 How to reach me **https://t.me/LighteningDev**
 
 <h3 align="left">Main Skilset:</h3>
 <h4 align="left">- Blockchain Development</h4>
